@@ -10,3 +10,4 @@ This includes:
 4. Add new doctors and nurses along with detail.
 5. Alocate a bed to a patient along with cost calculation
 6. Cost calculation of a patient medication automatically.
+[![Run on Repl.it](https://repl.it/badge/github/Nayeem-XTREME/Hospital-Management-System)](https://repl.it/github/Nayeem-XTREME/Hospital-Management-System)
